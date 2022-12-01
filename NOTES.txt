@@ -1,0 +1,4 @@
+INSTALL NEWGET PACKEGS
+
+Microsoft.AspNetCore.Mvc.Razor.RuntiME.COMILATION
+
